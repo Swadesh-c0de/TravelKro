@@ -23,7 +23,7 @@ Check out the live demo [here](https://www.google.com/).
 ##### 1. Clone this repository:
 
 ```code
-git clone https://github.com/your-username/travel-blog-landing-page.git
+git clone https://github.com/Swadesh-c0de/TravelKro.git
 ```
 
 ##### 2. Navigate to the project directory:
