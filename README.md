@@ -10,7 +10,7 @@ Welcome to the Travel Kro landing page project. This simple web page showcases t
 
 # Live Demo
 
-Check out the live demo [here](https://www.google.com/).
+Check out the live demo [here](https://swadesh-c0de.github.io/TravelKro/).
 
 # Screenshots
 
@@ -29,7 +29,7 @@ git clone https://github.com/Swadesh-c0de/TravelKro.git
 ##### 2. Navigate to the project directory:
 
 ```code
-cd travel-blog-landing-page
+cd TravelKro
 ```
 
 ##### 3. Open `index.html` in your preferred web browser.
