@@ -14,9 +14,9 @@ Check out the live demo [here](https://www.google.com/).
 
 # Screenshots
 
-![](TravelKro/screenshots/shot-1.png)
-![](TravelKro/screenshots/shot-2.png)
-![](TravelKro/screenshots/shot-3.png)
+![](screenshots/shot-1.png)
+![](screenshots/shot-2.png)
+![](screenshots/shot-3.png)
 
 # Installation
 
