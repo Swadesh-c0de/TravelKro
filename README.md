@@ -14,9 +14,9 @@ Check out the live demo [here](https://www.google.com/).
 
 # Screenshots
 
-![](screenshots/shot-1)
-![](screenshots/shot-2)
-![](screenshots/shot-3)
+![1](screenshots/shot-1)
+![2](screenshots/shot-2)
+![3](screenshots/shot-3)
 
 # Installation
 
